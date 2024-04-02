@@ -1,4 +1,4 @@
-use std::{fmt::Debug, num::Wrapping};
+use std::{num::Wrapping};
 
 pub struct Block{
   words: [u32;16],
